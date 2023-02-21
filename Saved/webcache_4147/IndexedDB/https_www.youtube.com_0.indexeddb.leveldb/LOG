@@ -1,0 +1,5 @@
+2022/10/28-11:03:18.146 26c8 Reusing MANIFEST C:/Users/161073/Downloads/MENU WITH INV/MenuTemp/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/28-11:05:34.440 1b3c Level-0 table #5: started
+2022/10/28-11:05:34.451 1b3c Level-0 table #5: 8822 bytes OK
+2022/10/28-11:05:34.454 1b3c Delete type=0 #3
+2022/10/28-11:05:34.455 1b3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
